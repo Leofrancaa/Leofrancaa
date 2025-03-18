@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **projects at my internship**
 
-- 🌱 I’m currently learning **ReacNative, Python,**
+- 🌱 I’m currently learning **ReacNative and Python**
 
 - 👨‍💻 All of my projects are available at [https://my-personal-portfolio-three-murex.vercel.app/](https://my-personal-portfolio-three-murex.vercel.app/)
 

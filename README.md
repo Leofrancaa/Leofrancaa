@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReacNative and Python**
 
-- 👨‍💻 All of my projects are available at [https://my-personal-portfolio-three-murex.vercel.app/](https://leonardo-franca.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://leonardo-franca.vercel.app/](https://leonardo-franca.vercel.app/)
 
 - 📫 How to reach me **leofrancal17@gmail.com**
 

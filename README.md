@@ -22,6 +22,5 @@
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leofrancaa&show_icons=true&locale=en&layout=compact" alt="leofrancaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leofrancaa&show_icons=true&locale=en" alt="leofrancaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leofrancaa&" alt="leofrancaa" /></p>

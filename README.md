@@ -18,6 +18,11 @@
 - MongoDB, MySQL  
 - REST APIs, JWT, Docker
 
+### 🐍 Python & Dados
+- Python básico à intermediário  
+- Automação de tarefas, tratamento de dados (Pandas, NumPy)  
+- Scripts para integração com APIs, análise de dados e uso em projetos de automação e IA
+
 ### 📊 Computação & Algoritmos
 - C, C++, Python  
 - Estrutura de Dados e Algoritmos  
@@ -41,7 +46,8 @@
 
 - 📧 E-mail: leofranca17@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-franca-almeida-silva-597b90149/)  
-- 🧠 [Portfólio (opcional)](https://leonardo-franca.vercel.app/)  
+- 🧠 [Portfólio (opcional)](https://leonardo-franca.vercel.app/)
+- 📱 Telefone: (71) 99154-8757  
 
 ---
 

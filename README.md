@@ -46,7 +46,7 @@
 
 - 📧 E-mail: leofranca17@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-franca-almeida-silva-597b90149/)  
-- 🧠 [Portfólio (opcional)](https://leonardo-franca.vercel.app/)
+- 🧠 [Portfólio](https://leonardo-franca.vercel.app/)
 - 📱 Telefone: (71) 99660-1709 
 
 ---

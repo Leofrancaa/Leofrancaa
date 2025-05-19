@@ -40,9 +40,8 @@
 ## 📫 Entre em contato
 
 - 📧 E-mail: leofranca17@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)  
-- 🧠 [Portfólio (opcional)](https://seuportifolio.vercel.app)  
-- 📦 [Projetos no GitHub](https://github.com/Leofrancaa)
+- 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-franca-almeida-silva-597b90149/)  
+- 🧠 [Portfólio (opcional)](https://leonardo-franca.vercel.app/)  
 
 ---
 

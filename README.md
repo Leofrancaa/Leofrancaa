@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Leonardo Franca Almeida Silva
 
-🎓 Estudante de **Engenharia da Computação** – 7º semestre  
+🎓 Estudante de **Engenharia da Computação** – 8º semestre  
 💼 Buscando oportunidades em **Desenvolvimento Fullstack**, **Automação de Processos** e **Inteligência Artificial**  
 🚀 Apaixonado por criar soluções eficientes, escaláveis e inteligentes
 

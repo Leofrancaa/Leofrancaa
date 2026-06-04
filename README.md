@@ -1,55 +1,80 @@
-# 👋 Olá! Eu sou o Leonardo Franca Almeida Silva
+# 👋 Hello! I'm Leonardo Franca Almeida Silva
 
-🎓 Estudante de **Engenharia da Computação** – 8º semestre  
-💼 Buscando oportunidades em **Desenvolvimento Fullstack**, **Automação de Processos** e **Inteligência Artificial**  
-🚀 Apaixonado por criar soluções eficientes, escaláveis e inteligentes
-
----
-
-## 💻 Tecnologias e Ferramentas
-
-### 🧑‍💻 Desenvolvimento Web & Mobile
-- HTML, CSS, JavaScript, TypeScript  
-- React, Next.js, React Native  
-- Tailwind CSS, Figma
-
-### 🛠️ Backend & Banco de Dados
-- Node.js, Express  
-- MongoDB, MySQL  
-- REST APIs, JWT, Docker
-
-### 🐍 Python & Dados
-- Python básico à intermediário  
-- Automação de tarefas, tratamento de dados (Pandas, NumPy)  
-- Scripts para integração com APIs, análise de dados e uso em projetos de automação e IA
-
-### 📊 Computação & Algoritmos
-- C, C++, Python  
-- Estrutura de Dados e Algoritmos  
-- Fundamentos de Machine Learning
-
-### ⚙️ Automação & IoT
-- CLP, ESP32, sensores e atuadores  
-- Projetos com integração web + hardware  
-- Protocolos: Modbus, Bluetooth, Wi-Fi
+🎓 **Computer Engineering Student** – 10th Semester
+💼 Currently working at **BYD** with projects involving **Computer Vision**, **Artificial Intelligence**, and **Process Automation**
+🚀 Passionate about building efficient, scalable, and intelligent solutions that connect software, data, and industrial systems.
 
 ---
 
-## 🌱 Atualmente aprendendo
-- Integração contínua (CI/CD)  
-- Kubernetes e microsserviços  
-- Aplicações práticas com IA generativa
+## 💻 Technologies & Tools
+
+### 🧑‍💻 Web & Mobile Development
+
+* HTML, CSS, JavaScript, TypeScript
+* React, Next.js, React Native
+* Tailwind CSS, Figma
+
+### 🛠️ Backend & Databases
+
+* Node.js, Express
+* MongoDB, MySQL
+* REST APIs, JWT, Docker
+
+### 🐍 Python, Data & AI
+
+* Python (Intermediate)
+* Process automation and data analysis with Pandas and NumPy
+* API integrations and automation scripts
+* Artificial Intelligence applications and data processing
+* Basic to intermediate knowledge of Machine Learning concepts and techniques
+
+### 📊 Computer Science & Algorithms
+
+* C, C++, Python
+* Data Structures and Algorithms
+* Software Engineering Principles
+* Computer Vision Fundamentals
+* Machine Learning Fundamentals
+
+### ⚙️ Automation, Industrial Systems & IoT
+
+* Process Automation
+* PLCs, ESP32, sensors, and actuators
+* Industrial system integration
+* Web-to-hardware applications
+* Protocols: Modbus, Bluetooth, Wi-Fi
 
 ---
 
-## 📫 Entre em contato
+## 💼 Professional Experience
 
-- 📧 E-mail: leofranca17@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-franca-almeida-silva-597b90149/)  
-- 🧠 [Portfólio](https://leonardo-franca.vercel.app/)
-- 📱 Telefone: (71) 99660-1709 
+### BYD – Computer Vision, AI & Process Automation
+
+* Development and support of computer vision solutions for industrial environments
+* Process automation and optimization
+* Data analysis and AI-driven applications
+* Integration between software systems, industrial equipment, and production processes
+* Support for smart manufacturing and Industry 4.0 initiatives
 
 ---
 
-🛠️ *Esse perfil está sempre em construção conforme novos projetos surgem e novas habilidades são desenvolvidas.*
+## 🌱 Currently Learning
 
+* CI/CD and DevOps practices
+* Kubernetes and Microservices
+* Generative AI applications
+* Advanced Machine Learning techniques
+* MLOps and AI deployment strategies
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [leofranca17@gmail.com](mailto:leofranca17@gmail.com)
+* 💼 LinkedIn: [www.linkedin.com/in/leonardo-franca-almeida-silva-597b90149/](http://www.linkedin.com/in/leonardo-franca-almeida-silva-597b90149/)
+* 🧠 Portfolio: leonardo-franca.vercel.app
+* 📱 Phone: +55 (71) 99660-1709
+
+---
+
+🛠️ *This profile is continuously evolving as new projects, technologies, and challenges contribute to my professional growth.*
